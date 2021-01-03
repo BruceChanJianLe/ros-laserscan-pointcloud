@@ -1,4 +1,4 @@
-# ROS-laserscan-pointcloud
+# ROS Laserscan to Pointcloud2
 
 This repository demonstrates the methods of converting a laserscan to pointcloud as well as the usage of the pointcloud2 msg data.
 
